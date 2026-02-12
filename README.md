@@ -2,9 +2,9 @@
 aula sobre git e github
 
 # Outras coisas
-changes: esses arquivos estão diferentes do arquivos que te enviou
-stage change: áres de pré-salvamento
-merge-change: tudo que dá conflito e precisa ser resolvido 
+- changes: esses arquivos estão diferentes do arquivos que te enviou
+- stage change: áres de pré-salvamento
+- merge-change: tudo que dá conflito e precisa ser resolvido 
 
 
 # Git comandos
